@@ -4,7 +4,7 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Check out my [**Portfolio**](https://uthaya001.github.io/Veluchamy_portfolio/)  
-- 🌱 Currently learning & teaching **DSA**, integrating **AI** into my workflow  
+- 🌱 Currently learning  **DSA**, integrating **AI** and **Applications** into my workflow  
 - 🎓 Engineering @ **Dr. Mahalingam College of Engineering & Technology**  
 - ⚡ Fun fact: I can speak **Japanese** 🇯🇵  
 
