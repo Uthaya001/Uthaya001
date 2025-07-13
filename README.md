@@ -23,6 +23,6 @@ Software Developer
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/Techie_Uthay?theme=dark&font=BioRhyme))](https://leetcode.com/Techie_Uthay/)
+[![Leetcode Stats]](![LeetCode Stats](https://leetcard.jacoblin.cool/Techie_Uthay?theme=dark&font=BioRhyme))(https://leetcode.com/Techie_Uthay/)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uthaya001&bg_color=000000&color=ffffff&line=4dff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)](https://github.com/Uthaya001/github-readme-activity-graph)
+[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uthaya001&bg_color=000000&color=ffffff&line=4dff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)(https://github.com/Uthaya001/github-readme-activity-graph)
