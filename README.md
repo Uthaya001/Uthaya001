@@ -63,9 +63,9 @@
 
 ### 🧠 Workspace Specs
 
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/HP-Victus_F15-1f75fe?style=for-the-badge&logo=hp&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Intel-Core_i5-blue?style=for-the-badge&logo=intel&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 ---
 
